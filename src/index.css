@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.primaryFont{
+    font-family: "Poppins", sans-serif;
+}
+
+.secondaryFont{
+    font-family: "Cuprum", sans-serif;
+}
